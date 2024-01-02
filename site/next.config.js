@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Guru Registry',
     description: 'The dark guru store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://GourouLubrik.github.io/kasm-registry/',
+    listUrl: 'https://gouroulubrik.github.io/kasm-registry/',
     contactUrl: 'https://github.com/GourouLubrik/kasm-registry/issues',
   },
   reactStrictMode: true,
